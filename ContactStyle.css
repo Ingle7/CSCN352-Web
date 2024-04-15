@@ -1,3 +1,10 @@
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
 /*header Style*/
 header {
   background-color: #333;
@@ -91,4 +98,12 @@ nav ul li a {
 
 .contact-info p {
   margin-bottom: 10px;
+}
+
+/* Footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
 }
